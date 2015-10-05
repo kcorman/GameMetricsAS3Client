@@ -10,7 +10,7 @@ import flash.net.SharedObject;
 public class RestHandler {
 
     private static const HOST_KEY:String = "host";
-    private static const DEFAULT_SERVER:String = "http://192.168.1.130:3000"
+    private static const DEFAULT_SERVER:String = "http://williamthefoe.ddns.net:29777"
     public var basePath:String;
 
     // Checks to see if the base path needs updating
